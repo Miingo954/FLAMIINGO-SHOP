@@ -189,9 +189,9 @@ footer {
 }
 
 .footer-logo {
-  font-size: 17px;
-  font-weight: 80;
-  letter-spacing: -0.02em;
+  font-size: 20px;
+  font-weight: 100;
+  letter-spacing: -0.08em;
 }
 
 footer h3 {
@@ -230,6 +230,7 @@ footer small {
     align-items: center;
     position: relative;
     left: -30%;
+  }
 
   .hero {
     height: 610px;
