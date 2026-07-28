@@ -1,10 +1,3 @@
-const products = [
-  { name: 'OFFSET DENIM SHORTS', price: '$68', image: 'https://images.unsplash.com/photo-1548883354-7622d03aca27?auto=format&fit=crop&w=700&q=80', badge: 'NEW' },
-  { name: 'UTILITY CARGO SHORTS', price: '$72', image: 'https://images.unsplash.com/photo-1627225924765-552d49cf47ad?auto=format&fit=crop&w=700&q=80', badge: 'NEW' },
-  { name: 'WASHED CANVAS SHORTS', price: '$64', image: 'https://images.unsplash.com/photo-1624378439575-d8705ad7ae80?auto=format&fit=crop&w=700&q=80', badge: '' },
-  { name: 'RELAXED NYLON SHORTS', price: '$58', image: 'https://images.unsplash.com/photo-1622470953794-aa9c70b0fb9d?auto=format&fit=crop&w=700&q=80', badge: 'NEW' }
-];
-
 const productGrid = document.querySelector('#productGrid');
 const cartItems = document.querySelector('#cartItems');
 let cart = [];
